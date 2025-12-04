@@ -1,5 +1,5 @@
 <div align="center">
-
+本 Fork 仓库将移除对Android 端的支持
 # FFmpegKit for Flutter. Full-GPL version.
 
 _Fork of the original FFmpeg Kit library to work with Android V2 bindings and Flutter 3+_
